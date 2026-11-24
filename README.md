@@ -4,9 +4,17 @@ ClipIT is a Windows app that finds video clips across the internet, keeps the on
 
 ## Download
 
-Get **ClipIT-Setup.exe** from the [latest release](https://github.com/softa-arch/ClipIT/releases/latest) and run it. You choose the language and the folder. Windows may warn that the publisher is unknown: the app is not code-signed.
+**[Download ClipIT-Setup.exe](https://github.com/softa-arch/ClipIT/releases/latest/download/ClipIT-Setup.exe)** and open it. That one file is all you need.
 
-Already have ClipIT? It updates itself: **Settings → Version → Update now**.
+1. Choose the language and the folder. It proposes `Program Files\ClipIT`.
+2. Press Next. "Create a desktop icon" is ticked; press Install.
+3. Windows asks once for permission to create the folder. Choose Yes.
+
+The first time ClipIT opens, it asks for an **access code**. You get one from the person who gave you ClipIT. You type it once; the PC remembers it until ClipIT is uninstalled.
+
+Windows may warn that the publisher is unknown ("Windows protected your PC" → More info → Run anyway): the app is not code-signed.
+
+Already have ClipIT? When a new version is out, a **New update** button appears at the top of the window. One click updates it.
 
 ## What it does
 
