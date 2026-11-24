@@ -12,6 +12,7 @@ Already have ClipIT? It updates itself: **Settings → Version → Update now**.
 
 - You describe the clips you are after in your own words, for example "GTA 6 clips where a bug or something funny happens, or a streamer reacts".
 - It searches YouTube, Twitch, Kick, Reddit, X, TikTok and other sites.
+- **Skills** go further than a search. The first one, *GTA 6 Clips*, searches every site clips are uploaded to, then Claude looks at the videos themselves and keeps the ones in which something funny, a fail, a bug or a crash really happens, with the moment and the name of the streamer or uploader.
 - On YouTube it also finds clips whose title does not name the game: uploads straight from a PlayStation, and clips titled after the game's characters or places.
 - Rules decide what stays: at least 720p, landscape, length, views, "pure clip" (no edits, no compilations), and rules of your own.
 - With the downloader installed it looks inside each clip: real picture size and length, and how many hard cuts it has.
